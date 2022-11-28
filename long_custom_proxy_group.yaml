@@ -1,4 +1,13 @@
-# custom_proxy_group
-# 
-DOMAIN-SUFFIX,xiaoheimi.net
-DOMAIN-KEYWORD,xiaoheimi
+# NAME: custom_proxy_group
+# AUTHOR: long
+# REPO: https://github.com/qiu1993/RuleConfig
+# UPDATED: 2022-11-28 23:13:49
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 1
+# IP-CIDR: 2
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,xiaoheimi.net
+  - DOMAIN-KEYWORD,xiaoheimi
+  - IP-CIDR,104.26.13.142/24
+  - IP-CIDR,172.67.68.71/24
