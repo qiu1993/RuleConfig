@@ -9,7 +9,7 @@
 payload:
   - DOMAIN-SUFFIX,nakoemby.com
   - DOMAIN-SUFFIX,nakonako.net
-  - DOMAIN-SUFFIX,xiaoheimi.net
+  # - DOMAIN-SUFFIX,xiaoheimi.net
   # - DOMAIN-KEYWORD,xiaoheimi
-  - IP-CIDR,104.26.13.142/24
-  - IP-CIDR,172.67.68.71/24
+  # - IP-CIDR,104.26.13.142/24
+  # - IP-CIDR,172.67.68.71/24
