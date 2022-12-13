@@ -3,11 +3,21 @@
 # REPO: https://github.com/qiu1993/RuleConfig
 # UPDATED: 2022-11-28 23:13:49
 # DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 3
+# DOMAIN-SUFFIX: 10
 # IP-CIDR: 0
-# TOTAL: 3
+# TOTAL: 10
 payload:
+  # emby
   - DOMAIN-SUFFIX,o9o.nl
   - DOMAIN-SUFFIX,nakoemby.com
   - DOMAIN-SUFFIX,nakonako.net
   # - DOMAIN-SUFFIX,xiaoheimi.net
+  
+  # Zlibrary
+  - DOMAIN-SUFFIX,z-lib.org
+  - DOMAIN-SUFFIX,1lib.domains
+  - DOMAIN-SUFFIX,libsolutions.domains
+  - DOMAIN-SUFFIX,zh.booklist.is
+  - DOMAIN-SUFFIX,zh.bookshome.world
+  - DOMAIN-SUFFIX,zh.zlibrary.org
+  - DOMAIN-SUFFIX,zh.singlelogin.me
