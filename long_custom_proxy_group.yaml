@@ -21,3 +21,6 @@ payload:
   - DOMAIN-SUFFIX,zh.bookshome.world
   - DOMAIN-SUFFIX,zh.zlibrary.org
   - DOMAIN-SUFFIX,zh.singlelogin.me
+  
+  # Zoom
+  - DOMAIN-SUFFIX,zoom.us
