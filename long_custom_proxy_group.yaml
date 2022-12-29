@@ -1,11 +1,11 @@
 # NAME: CUSTOM_PROXY_GROUP [自定义代理域名&IP]
 # AUTHOR: long
 # REPO: https://github.com/qiu1993/RuleConfig
-# UPDATED: 2022-12-26 17:14:55
+# UPDATED: 2022-12-29 18:21:07
 # DOMAIN-KEYWORD: 0
-# DOMAIN-SUFFIX: 12
+# DOMAIN-SUFFIX: 13
 # IP-CIDR: 0
-# TOTAL: 12
+# TOTAL: 13
 payload:
   # emby
   - DOMAIN-SUFFIX,o9o.nl
@@ -24,3 +24,6 @@ payload:
   
   # Zoom
   - DOMAIN-SUFFIX,zoom.us
+  
+  # game - lostark
+  - DOMAIN-SUFFIX,mangot5.com
