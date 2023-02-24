@@ -1,0 +1,14 @@
+# NAME: CUSTOM_PROXY_GROUP_FOR_MANUAL_PROXY [自定义代理域名&IP，手动指定代理节点]
+# AUTHOR: long
+# REPO: https://github.com/qiu1993/RuleConfig
+# UPDATED: 2023-2-24 21:21:20
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 2
+# IP-CIDR: 0
+# TOTAL: 2
+
+payload:
+  # GPTChat
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,hcaptcha.com
+  
